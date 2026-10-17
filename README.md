@@ -59,6 +59,9 @@ Ideia de funcionamento do programa
 ---
 ## Ideias de interface
 
+#### Logo
+![logo](https://github.com/matheusvdsm/AtelieHovy/blob/69f47dee77a7490f91d43889e8ec91ee0e6720ac/Imagens/Hovy.png) 
+
 ### Tela inicial
 
 ![ideiainterface1](https://github.com/matheusmarigo/AtelieHovy/blob/d3c04977be0e554bf34ca61bce0e2354dc136046/Imagens/Ideia%20de%20interface.png)
